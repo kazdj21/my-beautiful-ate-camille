@@ -107,7 +107,7 @@ function App() {
 
     }
 
-  }, [audio, isRight])
+  }, [audio])
 
 
 
